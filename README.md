@@ -1,1 +1,2 @@
-# simple-node-app
+# node-docker
+Simple node and express docker 
